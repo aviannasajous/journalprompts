@@ -5,11 +5,11 @@
 }
 
 #main_prompt {
-    font-size: 2.3vmax;
+    font-size: 0.3vmax;
     color: #9288c5;
 
     height: 90vh;
-    width: 100%;
+    width: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
