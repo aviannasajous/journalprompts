@@ -3,9 +3,8 @@
     padding-right: 10%;
 }
 #main_prompt {
-    font-color: #9288c5
+    color: #9288c5;
     font-size: 5vmax;
-
     height: 90vh;
     width: 100%;
     display: flex;
